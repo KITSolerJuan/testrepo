@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+extraProperties=sonar.jdbc.driver\=com.mysql.jdbc.Driver\r\nsonar.host.url\=http\://10.1.20.46\:9000\r\nsonar.jdbc.password\=remoteuser\r\nsonar.jdbc.url\=jdbc\:mysql\://10.1.20.46\:3306/sonar\r\nsonar.jdbc.username\=remoteuser
+projectKey=com.test\:testApp
+serverUrl=http\://10.1.20.46\:9000
+version=2
